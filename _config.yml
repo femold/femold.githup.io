@@ -12,15 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "ko-KR"
-title                    : "L-STAR"
+title                    : "femold"
 title_separator          : "|"
-subtitle                 : "new space"
+subtitle                 : "연습  공간"
 name                     : "L-STAR"
-description              : "엘스타"
-url                      : "https://femold.github.io"
+description              : "블로그 연습 공간입니다."
+url                      : "https://femold.github.io/femold.gitub.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

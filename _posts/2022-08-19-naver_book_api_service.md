@@ -3,6 +3,7 @@ layout: single
 title:  "네이버BOOK API 활용예제"
 categories: coding
 tag: [python, blog, jekyll]
+author_profile: false
 ---
 
 

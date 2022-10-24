@@ -3,6 +3,7 @@ layout: single
 title:  "네이버 검색 API 활용 예제"
 categories: coding
 tag: [python, blog, jekyll]
+author_profile: false
 ---
 
 
